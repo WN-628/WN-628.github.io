@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>John&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.wnling.com/"/>
+  <updated>2020-09-29T16:09:10.708Z</updated>
+  <id>http://www.wnling.com/</id>
+  
+  <author>
+    <name>John Ling</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Article</title>
+    <link href="http://www.wnling.com/2020/Article/"/>
+    <id>http://www.wnling.com/2020/Article/</id>
+    <published>2020-09-29T06:20:12.000Z</published>
+    <updated>2020-09-29T16:09:10.708Z</updated>
+    
+    <content type="html"><![CDATA[<p>Test 2</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Test 2&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="http://www.wnling.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+</feed>
