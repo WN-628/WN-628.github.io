@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wnling.com/"/>
-  <updated>2020-09-30T05:33:06.389Z</updated>
+  <updated>2020-09-30T07:14:19.021Z</updated>
   <id>http://www.wnling.com/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="http://www.wnling.com/2020/Article/"/>
     <id>http://www.wnling.com/2020/Article/</id>
     <published>2020-09-29T06:20:12.000Z</published>
-    <updated>2020-09-30T05:33:06.389Z</updated>
+    <updated>2020-09-30T07:14:19.021Z</updated>
     
-    <content type="html"><![CDATA[<p>Test 2</p>]]></content>
+    <content type="html"><![CDATA[<p>Test 2</p><script type="math/tex; mode=display">\frac{\partial T}{\partial y} = x^2y</script>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;Test 2&lt;/p&gt;
-
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;
+\frac{\partial T}{\partial y} = x^2y&lt;/script&gt;
       
     
     </summary>

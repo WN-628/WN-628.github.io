@@ -8,7 +8,7 @@
     <link href="/2020/Article/"/>
     <url>/2020/Article/</url>
     
-    <content type="html"><![CDATA[<p>Test 2</p>]]></content>
+    <content type="html"><![CDATA[<p>Test 2</p><script type="math/tex; mode=display">\frac{\partial T}{\partial y} = x^2y</script>]]></content>
     
     
     <categories>
