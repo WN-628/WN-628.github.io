@@ -1,13 +1,13 @@
 
 
 <!DOCTYPE html>
-<html lang="zh-CN" >
+<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
 
 
 
 <head><meta name="generator" content="Hexo 3.9.0">
   <meta charset="UTF-8">
-  <link rel="apple-touch-icon" sizes="76x76" href="/favicon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon_apple.png">
   <link rel="icon" type="image/png" href="/favicon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -165,7 +165,7 @@
     <div class="category row">
       <a
         class="category-item collapsed list-group-item category-item-action col-10 col-md-11"
-        id="heading-ckfr3iojl00051bhqvf6arsdo" role="tab" data-toggle="collapse" href="#collapse-ckfr3iojl00051bhqvf6arsdo"
+        id="heading-ckfr4fq7k0005gmhqseqaaupb" role="tab" data-toggle="collapse" href="#collapse-ckfr4fq7k0005gmhqseqaaupb"
         aria-expanded="false"
       >
         测试
@@ -178,8 +178,8 @@
       <div class="category-collapse">
         
           
-  <div id="collapse-ckfr3iojl00051bhqvf6arsdo" class="collapse in" role="tabpanel"
-       aria-labelledby="heading-ckfr3iojl00051bhqvf6arsdo">
+  <div id="collapse-ckfr4fq7k0005gmhqseqaaupb" class="collapse in" role="tabpanel"
+       aria-labelledby="heading-ckfr4fq7k0005gmhqseqaaupb">
     
     
     
@@ -325,45 +325,6 @@
 
 
 
-
-  
-
-  
-    <!-- MathJax -->
-    <script>
-      MathJax = {
-        tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']]
-        },
-        options: {
-          renderActions: {
-            findScript: [10, doc => {
-              document.querySelectorAll('script[type^="math/tex"]').forEach(node => {
-                const display = !!node.type.match(/; *mode=display/);
-                const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                const text = document.createTextNode('');
-                node.parentNode.replaceChild(text, node);
-                math.start = { node: text, delim: '', n: 0 };
-                math.end = { node: text, delim: '', n: 0 };
-                doc.math.push(math);
-              });
-            }, '', false],
-            insertedScript: [200, () => {
-              document.querySelectorAll('mjx-container').forEach(node => {
-                let target = node.parentNode;
-                if (target.nodeName.toLowerCase() === 'li') {
-                  target.parentNode.classList.add('has-jax');
-                }
-              });
-            }, '', false]
-          }
-        }
-      };
-    </script>
-
-    <script async src="https://cdn.staticfile.org/mathjax/3.0.5/es5/tex-svg.js" ></script>
-
-  
 
 
 
