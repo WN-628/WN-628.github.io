@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test1</title>
+    <link href="/2020/test1/"/>
+    <url>/2020/test1/</url>
+    
+    <content type="html"><![CDATA[<figure><img src="/images/test1/0_ab2fd9c320.jpg" srcset="/img/loading.gif" alt="0_ab2fd9c320"><figcaption>0_ab2fd9c320</figcaption></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Article</title>
     <link href="/2020/Article/"/>
     <url>/2020/Article/</url>
