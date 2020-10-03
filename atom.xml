@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wnling.com/"/>
-  <updated>2020-10-03T14:36:56.958Z</updated>
+  <updated>2020-10-03T14:43:04.634Z</updated>
   <id>http://www.wnling.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://www.wnling.com/2020/test1/"/>
     <id>http://www.wnling.com/2020/test1/</id>
     <published>2020-10-03T14:32:10.000Z</published>
-    <updated>2020-10-03T14:36:56.958Z</updated>
+    <updated>2020-10-03T14:43:04.634Z</updated>
     
-    <content type="html"><![CDATA[<figure><img src="/images/test1/0_ab2fd9c320.jpg" srcset="/img/loading.gif" alt="0_ab2fd9c320"><figcaption>0_ab2fd9c320</figcaption></figure>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/test1/0_ab2fd9c320.jpg" srcset="/img/loading.gif"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;figure&gt;
-&lt;img src=&quot;/images/test1/0_ab2fd9c320.jpg&quot; srcset=&quot;/img/loading.gif&quot; alt=&quot;0_ab2fd9c320&quot;&gt;&lt;figcaption&gt;0_ab2fd9c320&lt;/figcaption&gt;
-&lt;/figu
+        &lt;p&gt;&lt;img src=&quot;/images/test1/0_ab2fd9c320.jpg&quot; srcset=&quot;/img/loading.gif&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
@@ -44,7 +43,7 @@
     <link href="http://www.wnling.com/2020/Article/"/>
     <id>http://www.wnling.com/2020/Article/</id>
     <published>2020-09-29T06:20:12.000Z</published>
-    <updated>2020-10-03T14:36:56.958Z</updated>
+    <updated>2020-10-03T14:43:04.634Z</updated>
     
     <content type="html"><![CDATA[<p>Test 2</p><p><span class="math display">\[\frac{\partial T}{\partial y} = x^2y\]</span></p>]]></content>
     
