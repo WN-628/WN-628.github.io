@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.wnling.com/"/>
-  <updated>2020-10-03T14:52:51.533Z</updated>
+  <updated>2020-10-03T14:55:55.576Z</updated>
   <id>http://www.wnling.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.wnling.com/2020/test1/"/>
     <id>http://www.wnling.com/2020/test1/</id>
     <published>2020-10-03T14:32:10.000Z</published>
-    <updated>2020-10-03T14:52:51.533Z</updated>
+    <updated>2020-10-03T14:55:55.576Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/test1/0_ab2fd9c320.jpg" srcset="/img/loading.gif"></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://www.wnling.com/2020/Article/"/>
     <id>http://www.wnling.com/2020/Article/</id>
     <published>2020-09-29T06:20:12.000Z</published>
-    <updated>2020-10-03T14:52:51.533Z</updated>
+    <updated>2020-10-03T14:55:55.576Z</updated>
     
     <content type="html"><![CDATA[<p>Test 2</p><p><span class="math display">\[\frac{\partial T}{\partial y} = x^2y\]</span></p>]]></content>
     
