@@ -266,24 +266,30 @@
               <article class="comments" id="comments">
                 
                 
-  <div class="disqus" style="width:100%">
-    <div id="disqus_thread"></div>
-    <script>
-      function loadDisqus() {
-        addCssLink('https://cdn.jsdelivr.net/npm/disqusjs@1.0/dist/disqusjs.css');
-        addScript('https://cdn.jsdelivr.net/npm/disqusjs@1.0/dist/disqus.js', function () {
-          new DisqusJS({
-            shortname: 'wn628',
-            apikey: 'VwRy2b4sKOcd1xiHGPBgqMMbN9PLE2dUjpzLebX4KUEZty5paeQUlktqdOvjEwNS'
-          });
+  <div id="vcomments"></div>
+  <script type="text/javascript">
+    function loadValine() {
+      addScript('https://cdn.staticfile.org/valine/1.4.14/Valine.min.js', function () {
+        new Valine({
+          el: "#vcomments",
+          app_id: "npCkWidziHhzBDMcL4U91vvu-MdYXbMMI",
+          app_key: "hp4Nuu7bBh3e3dpOoNt3oU4Y",
+          placeholder: "说点什么",
+          path: window.location.pathname,
+          avatar: "retro",
+          meta: ["nick","mail","link"],
+          pageSize: "10",
+          lang: "zh-CN",
+          highlight: false,
+          recordIP: false,
+          serverURLs: "",
         });
-      }
-      waitElementVisible('disqus_thread', loadDisqus);
-    </script>
-    <noscript>Please enable JavaScript to view the
-      <a href="https://disqus.com/?ref_noscript" rel="nofollow noopener">comments powered by Disqus.</a>
-    </noscript>
-  </div>
+      });
+    }
+    waitElementVisible('vcomments', loadValine);
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://valine.js.org" rel="nofollow noopener">comments
+      powered by Valine.</a></noscript>
 
 
               </article>
